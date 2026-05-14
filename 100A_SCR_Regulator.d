@@ -1,0 +1,1 @@
+ 100A_SCR_Regulator.d  100A_SCR_Regulator.obj:  100A_SCR_Regulator.C storage.h ir.h key.h config.h hardware.h types.h display.h scr.h globals.h

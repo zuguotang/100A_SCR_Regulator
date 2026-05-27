@@ -66,7 +66,7 @@ volatile u16 inc     = 0;
 void main(void)
 {
     //--- 上电初始化 ---
-    __delay_ms(10);             // 等待电源稳定
+    __delay_ms(100);             // 等待电源稳定
     Device_Init();              // 系统时钟 + IO
 
     Storage_Init();             // EEPROM 读取/初始化

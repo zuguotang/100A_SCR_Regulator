@@ -1,1 +1,0 @@
- scr.d  scr.p1:  scr.c config.h hardware.h types.h scr.h globals.h

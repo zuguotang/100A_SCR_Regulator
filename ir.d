@@ -1,1 +1,0 @@
- ir.d  ir.p1:  ir.c buzzer.h ir.h config.h types.h globals.h

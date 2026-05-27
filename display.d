@@ -1,1 +1,0 @@
- display.d  display.p1:  display.c config.h types.h display.h globals.h

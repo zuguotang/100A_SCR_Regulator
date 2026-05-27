@@ -1,0 +1,25 @@
+# Build outputs
+*.obj
+*.cof
+*.rlf
+*.sdb
+*.sym
+*.lst
+*.map
+*.bin
+*.cmf
+*.hex
+*.hxl
+*.asm
+*.d
+*.p1
+*.pre
+*.ini
+*.lpp
+
+# IDE / tools
+.claude/
+
+# Temp files
+*.bak
+*.tmp
